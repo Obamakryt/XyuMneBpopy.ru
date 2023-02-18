@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=Roboto");
+body {
+    background: linear-gradient(90deg, #FFFFFF 12%, #8992FF 48%, #FF7575 96%);
+    font-family: Raleway, serif;
+}
+.nav-link {
+    color: rgb(131, 129, 129);
+}
+.navbar-brand img {
+    width: 110px;
+    border-radius: 5px;
+}
+.navbar-toggler {
+    background-color:rgb(64, 64, 64);
+}
+nav .container-fluid {
+    background-color: rgb(36, 35, 35);
+}
+.nav-link {
+    color: aliceblue;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: rgb(168, 172, 175);
+}
+body {
+    background: linear-gradient(90deg, #FFFFFF 12%, #8992FF 48%, #FF7575 96%);
+}
+.navbar {
+    --bs-navbar-padding-x: 1; 
+}
+.pravo {
+    color: rgb(233, 44, 85);
+    background: linear-gradient(90deg, #FFFFFF 12%, #8992FF 48%, #FF7575 96%);
+    
+
+}
+.card a {
+    text-decoration: none;
+}
+.tovar img {
+    width: 100%;
+    height: 620px;
+
+}
+.tex,
+.cniza {
+    color: #000000;
+    margin: auto auto;
+}
+.card-body {
+    text-align: center;
+
+}
+.rak {
+    margin-top: 100px;
+}
+footer {
+    background: linear-gradient(95deg, #e4e3e3 12%, #7d86eb 48%, #e96b6b 96%);
+    margin: none;
+}
+.container-fluid{
+    --bs-gutter-x: 0;
+}
+.cniza {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
